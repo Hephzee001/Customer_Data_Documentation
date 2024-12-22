@@ -20,7 +20,9 @@ Microsoft Excel
 - For Data Cleaning
 - For Data Analysis
 - For Visualisation
+  
 SQL- Structured Query Language For Querying of Data
+
 Power Bi
 - For Data Analysis
 - For Visualization
@@ -35,5 +37,15 @@ In the initial phase of the Data Cleaning and Preparation, I performed the follo
 ### Exploratory Data Analysis
 ---
 This phase involves the exploration of Data to answer some questions about the Data such as;
+
  What is the summary of;
  - Region by Sum Revenue
+ - Subcription type by Sum of Revenue
+ - Customer by Sum of Revenue
+ - Total Sum of Revenue
+
+### Data Visualisation
+---
+The Data was visualized using Pivot Table, Doughnut Charts, Card, Pie Charts and Bar Chart.
+
+
