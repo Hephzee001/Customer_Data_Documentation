@@ -25,7 +25,7 @@ Power Bi
 - For Data Analysis
 - For Visualization
 
-### Data Cleaaning and Preparations
+### Data Cleaning and Preparations
 ---
 In the initial phase of the Data Cleaning and Preparation, I performed the following tasks;
 - Data Loading and Inspection
@@ -35,6 +35,5 @@ In the initial phase of the Data Cleaning and Preparation, I performed the follo
 ### Exploratory Data Analysis
 ---
 This phase involves the exploration of Data to answer some questions about the Data such as;
- 
-
-
+ What is the summary of;
+ - Region by Sum Revenue
